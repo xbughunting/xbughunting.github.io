@@ -1,1 +1,1 @@
-# bugcro.github.io
+alert(1234)
